@@ -1,0 +1,101 @@
+id,fruit,berry
+1,Apple,false
+2,Orange,false
+3,Banana,false
+4,Grapes,false
+5,Strawberry,true
+6,Blueberry,true
+7,Raspberry,true
+8,Blackberry,true
+9,Pineapple,false
+10,Watermelon,false
+11,Mango,false
+12,Kiwi,false
+13,Papaya,false
+14,Pomegranate,false
+15,Pear,false
+16,Peach,false
+17,Plum,false
+18,Cherry,true
+19,Lemon,false
+20,Lime,false
+21,Avocado,false
+22,Melon,false
+23,Cantaloupe,false
+24,Honeydew Melon,false
+25,Cranberry,true
+26,Coconut,false
+27,Passionfruit,false
+28,Fig,false
+29,Kiwifruit,false
+30,Guava,false
+31,Pitaya,false
+32,Dragonfruit,false
+33,Gooseberry,true
+34,Elderberry,true
+35,Apricot,false
+36,Jackfruit,false
+37,Quince,false
+38,Persimmon,false
+39,Nectarine,false
+40,Starfruit,false
+41,Mangosteen,false
+42,Pawpaw,false
+43,Loquat,false
+44,Feijoa,false
+45,Redcurrant,true
+46,Blackcurrant,true
+47,Goji Berry,true
+48,Boysenberry,true
+49,Tayberry,true
+50,Loganberry,true
+51,Durian,false
+52,Rambutan,false
+53,Lychee,false
+54,Kumquat,false
+55,Morus,false
+56,Soursop,false
+57,Cherimoya,false
+58,Carambola,false
+59,Mulberry,true
+60,Jujube,false
+61,Sapote,false
+62,Physalis,false
+63,Barberry,true
+64,Plantain,false
+65,Tamarillo,false
+66,Rowanberry,true
+67,Huckleberry,true
+68,Lingonberry,true
+69,Pitanga,false
+70,Açaí Berry,true
+71,Noni,false
+72,Guanabana,false
+73,Salmonberry,true
+74,Saskatoon Berry,true
+75,Bilberry,true
+76,Currant,true
+77,Cloudberry,true
+78,Kiwanoberry,true
+79,Cranberry,true
+80,Feijoa,false
+81,Pepino,false
+82,Gac,false
+83,Tamarind,false
+84,Sweet Granadilla,false
+85,African Cucumber,false
+86,Ackee,false
+87,Pomelo,false
+88,Tangerine,false
+89,Pitahaya,false
+90,White Mulberry,true
+91,Rose Hip,true
+92,Longan,false
+93,Raisin,false
+94,Damson,false
+95,Apricot,false
+96,Breadfruit,false
+97,Cucumber,false
+98,Java Apple,false
+99,Sapodilla,false
+100,Carissa,false
